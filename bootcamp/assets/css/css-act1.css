@@ -1,0 +1,22 @@
+    table {
+        border: 1px solid black;
+        text-align: center;
+    } 
+    
+    th, td {
+        border: 1px solid white;
+    }
+
+    img {
+        height: 50px;
+        width: 50px;
+    }
+
+    .table-head {
+        color: white;
+        background-color: salmon;
+    }
+
+    .table-1 {
+        background-color: bisque;
+    }
